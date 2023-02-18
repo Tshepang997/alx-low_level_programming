@@ -1,13 +1,13 @@
 #include <stdio.h>
 
 /**
- * main - the main function
+ * main - print a line with put  function
  *
- * Return: the value should end with
+ * Return :the value always 0
  */
 
 int main(void)
 {
-	puts(*\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
