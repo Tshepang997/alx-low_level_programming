@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print the data types
+ * main - print the variables data types
  *
  * Return: always 0
  */
