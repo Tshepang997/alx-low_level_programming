@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_most_numbers - print numbers exclude 2 and 4
- *
+ * print_most_numbers - print numbers 0 to 9
+ * neither (2 or 4)
  * Return: void
  */
 
